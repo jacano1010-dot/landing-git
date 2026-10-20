@@ -1,4 +1,3 @@
-
 # Crear la carpeta del proyecto
 
 mkdir landing-git
@@ -23,6 +22,8 @@ Agregar los archivos al área de preparación:
 # Agregar todos los archivos al staging area
 
 git add .
+
+se adiere al area de preparacion al area de trabajo 
 Crear el primer commit:
 
 # Registrar la primera versión del proyecto
