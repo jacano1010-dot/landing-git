@@ -26,6 +26,8 @@ git add .
 se adiere al area de preparacion al area de trabajo 
 Crear el primer commit:
 
+despues poner git push
+
 # Registrar la primera versión del proyecto
 
 git commit git st
@@ -34,3 +36,11 @@ Verificar el historial:
 # Ver el historial resumido
 
 git log --oneline
+
+
+cree un nueva rama
+
+ andreacampos@MacBook-Air-de-ANDREA clase4 % git switch -c
+'agregar-beneficios'
+Switched to a new branch 'agregar-beneficios'
+andreacampos@MacBook-Air-de-ANDREA clase4 %
