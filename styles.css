@@ -47,6 +47,11 @@ body {
   border-left: 6px solid #2563eb;
 }
 
+.faq h3 {
+  margin-top: 20px;
+  color: #2563eb;
+}
+
 footer {
   text-align: center;
   padding: 20px;
